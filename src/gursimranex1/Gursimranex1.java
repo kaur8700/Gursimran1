@@ -17,7 +17,7 @@ public class Gursimranex1 {
     public static void main(String[] args) {
         System.out.println("My name is Gursimran");
         System.out.println("iam");
-                
+                System.out.println("pull opertion");
     }
     
 }
